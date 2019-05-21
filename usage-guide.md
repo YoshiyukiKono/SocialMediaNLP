@@ -27,13 +27,14 @@ Worker: t2.2xlarge - vCPU 8, RAM 32G
 ### Configuration
 
 #### Memory Allocation
-#### Container Memory
+
+##### Container Memory
 
 yarn.nodemanager.resource.memory-mb (NODEMANAGER worker Group)
 
 12GB
  
-#### Container Memory Maximum 
+##### Container Memory Maximum 
 
 yarn.scheduler.maximum-allocation-mb (REROURCEMANAGER master Group)
 
