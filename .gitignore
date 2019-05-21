@@ -1,3 +1,24 @@
+## for Mac
+.DS_Store
+
+## for CDSW
+R
+.local
+.julia
+node_modules
+.pip
+r_env
+r_env.zip
+*~
+.viminfo
+.bash_history
+.cache
+.conda
+.config
+.ipython
+.local
+.oracle_jre_usage
+
 # History files
 .Rhistory
 .Rapp.history
