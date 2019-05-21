@@ -19,6 +19,8 @@ r_env.zip
 .local
 .oracle_jre_usage
 
+## from Github template
+
 # History files
 .Rhistory
 .Rapp.history
