@@ -5,8 +5,8 @@
 2. Run `setup.R` on R session
 3. Open `nlp.R` on R session
 
-Please refer to [Usage Guide](./usage-guid.md)
+Please refer to [Usage Guide](./usage-guide.md)
 
 ## Links
 * Sparklyr: https://spark.rstudio.com/
-* Spacer: 
+* Spacer: http://spacyr.quanteda.io/
